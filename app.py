@@ -3,7 +3,7 @@ from flask_cors import CORS
 import mysql.connector #type: ignore
 from mysql.connector import Error #type: ignore
 
-
+#This is backend developed by yashas
 
 # made Rest call using Flask API
 app = Flask(__name__)
