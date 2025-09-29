@@ -13,7 +13,7 @@ db_config = {
     'host': 'localhost',
     'user': 'root',
     'password': 'Hanuman$9',
-    'database': 'Sportsdb'
+    'database': 'SportsDB_1'
 }
 
 # --- EXISTING GET ALL PLAYERS ROUTE (MODIFIED) ---
